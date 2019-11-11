@@ -1,4 +1,3 @@
-
 require_relative '../setup'
 
 class Store < ActiveRecord::Base
